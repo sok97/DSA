@@ -15,7 +15,7 @@ class reverse_string {
           return new String(c);
     }
 public static void main(String[] args) {
-      String str = "Hello";
+      String str = "Hello world";
         System.out.println(reveString(str));
     }   
 }
